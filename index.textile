@@ -1,0 +1,19 @@
+---
+layout: default
+title: BioAid.org.uk
+---
+
+
+
+
+The core of the BioAid project is a novel hearing aid algorithm based on our knowledge of the biological processes that occur in the ear.
+
+|!<images/app_ico.png!   | A free implementation of the algorithm can be downloaded on the app store. The app turns your iOS device into a hearing aid by processing sound from the microphone, then delivering the processed sound over headphones in real time. Care has been taken to make the user interface to the BioAid app very simple. However, please read the "detailed information":info.html on this site to get the best possible user experience. |
+
+
+The BioAid app is a research tool. The algorithm source code is freely available. This allows others to contribute to the project by creating and evaluating their own implementations of the hearing aid. See "the developer pages":coming_soon.html for more information.
+
+Thank you for your interest in the BioAid project.
+
+
+|!images/Screenshot_A_web.png!|!images/Screenshot_B_web.png!|!images/Screenshot_C_web.png!|

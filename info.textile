@@ -1,0 +1,185 @@
+---
+layout: default
+title: Information
+---
+
+
+
+
+BioAid is a special kind of hearing aid. It aims to regulate loudness both by making quiet sounds louder and loud sounds quieter.
+
+Of course, all hearing aids make quiet sounds louder and BioAid is no exception. Sounds are a complicated mixture of different frequencies. Loss of hearing is usually loss of sensitivity to some but not all frequencies. A hearing aid amplifies some frequencies more than others. The different settings in BioAid amplify different frequencies by different amounts.
+
+The special feature of BioAid is that it also makes very loud sounds quieter. This is important because hearing loss is often associated with intolerance for loud sounds and noisy environments. It may seem strange that a hearing aid should make some sounds quieter but this will make many situations tolerable again. This includes crowds, restaurants, bars, cinemas, fair grounds and parties (the fun places  in life). 
+
+Bioaid allows the user to choose his or her own settings. A regular hearing aid is usually set up for a single setting. If you don’t like the dispenser’s setting, you need to go back to the dispenser. With Bioaid you simply choose another from the 24 on offer.
+ 
+
+
+
+
+
+h2(#why).  Why are we doing this?
+
+BioAid is a research device. We have developed the hearing aid principles in the laboratory and tested it on a small number of people with a hearing loss. By making it publicly available, we hope to discover just how useful (or otherwise) it is to hundreds of people. We give you our hearing aid free of charge. In return we hope to hear from you with your comments and suggestions. We will pay attention to them all and learn from them.
+
+This is not part of a commercial operation. We have no plans to make money from this operation. We currently have no funding for this work and it is being done very cheaply. The scientific work  was previously funded generously by the British Research Councils (particularly EPSRC) and by Phonak the Swiss hearing aid company.
+
+We are not entering into competition with hearing aid companies but see some potential benefits for everyone with our initiative.
+
+Many people are reluctant to visit a hearing aid dispenser for various reasons. By playing with BioAid, people can get a sense of the potential benefit of using an assistive device. It might encourage them to get a manufactured hearing aid and it could, just maybe, change their life. 
+
+Not everyone in the world has access to healthcare. A free version of BioAid could be a life changer for some people. If so, we would like to hear from you. Your feedback could influence the way that governments make hearing aids available to millions of people!
+
+
+
+
+
+
+
+h2(#know).  Things you should know before you start
+
+BioAid will continue to run in the background once it is switched on until it is actively switched off. It will continue to run even when the iPhone/iPod is switched off.
+
+BioAid continues to make demands on the battery if switched on (even when the iPhone/iPod is switched off). Remember to switch the application off using the on/off button to the top right of the BioAid home screen.
+
+Bioaid will stop working while you make or take a phone call or if you start to play music with the music app. 
+
+
+
+
+
+
+h2(#started).  Getting started
+
+Starting up sequence (do this every time)
+
+# Switch on your device
+# Plug ear phones in to the device but do not put them in your ear yet.
+# Set volume control to low using the push buttons on the left of the device
+# Launch BioAid by tapping on the BioAid icon
+# Switch on BioAid (tap the top left button on the screen; it should change from blue to brown)
+# Put the ear pieces into your ear
+# Gradually increase the volume level 
+# Change the aid setting to suit (see below)
+# Keep the ear phones away from the microphone at all times
+
+Closing down sequence
+
+# Switch off BioAid (top left button on the screen; it should change from brown to blue)
+# Remove ear pieces
+
+Why follow this procedure?
+* Protection from sudden very loud sounds
+* Nasty sounding feedback will occur if BioAid is running with no phones plugged in
+* The default setting at switch-on (Home page/ button A) is best for setting your starting volume level
+
+
+
+
+
+
+h2(#bestset). Finding the best setting
+
+A standard hearing aid has fixed settings. BioAid allows you to explore different settings to find the one that suits you.
+
+On the Home page there are 6 different settings (A-F). Select any one by tapping on the button.
+
+You may need to adjust the volume using the buttons on the side of the device to correctly asses each setting.
+
+The slider at the bottom of each page is a ‘noise gate’. Adjust this to reduce electrical noise. You can also use it to block out continuous irritating background noise. Take care as this will also cut out quiet sounds if you move from a noisy to a quiet environment.
+Find the setting you like best on the home page. This gets you to an approximate setting. 
+To fine tune the setting, move to the appropriate page. For example, if you find that button B gives you the best results, move to page B by swiping the screen to the left until page B comes into view. 
+
+There are 6 fine-tuning pages. Each contains 4 fine-tuning settings. Select the one that works best for you. That makes 24 different settings. One of them should work for you.
+
+
+
+
+
+
+h2(#hints). Hints and tips
+
+You might find that different settings work in different situations (In the car, watching television, talking in a quiet situation, in a restaurant, listening to music, etc). Do not be afraid to explore the alternatives. There is no ‘best setting’ for all situations.
+Do not judge BioAid too hastily. It will take a little getting used to. This is true for all hearing aids. Try sitting quietly on your own, listening to talk radio in a quiet room. 
+
+# Radio is good basis for judging because you are completely dependent on the sound (no lip reading). 
+# Talk radio is good because hearing speech is probably the most important thing you do with your ears. Reflect on what you are hearing. Can you make out clearly everything that is being said even when they talk quickly? 
+# Smart people can compensate for hearing loss by intelligent guessing. However, over a long period of time, intelligent guessing is hard work. When assessing the different setting ask whether you can listen without effort?
+
+If a hearing aid is helping at all, it will be introduce new and unfamiliar sounds which will be irritating at first. However, these new sounds should be helping you to hear quiet sounds that were previously below your threshold of hearing. When listening to speech ask yourself whether these new sounds are helping you to follow the conversation with fewer errors.
+
+Beware the following trap. New users of hearing aids typically prefer a setting which delivers sound that is as close as possible to their unaided hearing! This is because it sounds more natural. Of course, this will deliver little benefit Explore different settings even if they sound a little unnatural or irritating.
+
+If you want ‘sounds nice’, switch off the hearing aid! If you want to hear better, you should be prepared to put up with some irritation at first. After a while it will begin to sound natural. If the hearing aid sounds perfectly natural, the chances are that it is not aiding anything. 
+
+On each page (after the home page) the buttons represent similar settings except that they settings are increasingly active from 1 to 4. Start off with button 1. When you can listen to this comfortably, try button 2 and so on upwards. Your hearing loss may not justify going all the way. Even if it does, you may not be ready for the full correction. Find the setting that gives the most benefit but be willing to put with some irritation on the way. Your preferred setting may change over time.
+
+BioAid controls loudness by making loud sounds quieter. To take full advantage of this feature it will be necessary sometimes to wear close-fitting insert earphones. This means a good acoustic seal, blocking out direct sounds. This will be necessary only in noisy situations. Occluding earpieces are not very pleasant to wear in quiet situations, particularly when speaking or eating. To get the best out of BioAid, use loose-fitting earphones or headphones for regular use but keep a set of occluding earphones handy for more challenging situations. They are not unpleasant when there is a lot of noise around and the improvement in listening comfort is considerable.
+
+The earpieces supplied with the iPhone have a built in microphone (in the cord feeding the earphones). This can be a problem when it is used with BioAid because the microphone is designed to pick up your own voice rather than the person you are talking to. However, it is worth a try when getting started. Just remember where the sound is being picked up.
+
+
+
+
+
+
+h2(#noisy). Noisy places
+
+Bioaid has a special advantage in noisy places because it makes loud sounds quieter and easier to cope with. You will need to use earpieces with a good acoustic seal when venturing forth into a cacophonous environment however.
+
+Try to stand or sit with a wall behind you. In a restaurant it is often the case that the person behind you is closer that the person you are talking to. As a result, a loud voice or sudden laughter will overwhelm the sound that you are trying to hear. With your back to the wall you will have eliminated 50% of the problem. If you can stand in a corner, then you have the problem licked!
+
+Distance to the sound you are listening to is critical in noisy situations. If you place the microphone of the iPhone or iPod close to your conversation partner this will tip the balance in favor of hearing what you want to hear and their speech will not being overwhelmed by the competition. This is a big advantage of using a portable device. You can put it on the table between you and your partner.
+
+The microphones in these devices are omni directional so it does not matter much where they are pointed. This can be a problem because it would be nice to be able to point the microphone directly to the subject. It also can be a benefit because you can put the device in a pocket, say a shirt pocket or a handbag. Even in odd places, the microphone will remain effective. When positioning it, bear in mind the location of the microphone so that it is not rubbing against fabric.
+
+
+
+
+
+
+h2(#ctrl). Putting the user in control
+
+The traditional approach to hearing aids involves a hearing test by a professional followed by a fixed prescription that the dispenser feels will be ideal. The user normally cannot adjust anything.
+
+With BioAid the user can choose from among a range of different settings. The BioAid philosophy is that the listener knows best. More importantly, not everyone in the world is a short drive from a hearing aid dispenser who can administer a hearing test. Bioaid dispenses with the need for a hearing test.
+
+Which is the best approach; fixed settings created by a professional or users choosing what suits them best? Well, that is a research issue. We will not know the answer until we have tried both. Your feedback will help us decide. It may be that people differ. Some want the professional to make all the decisions; others want personal control over all the important things in their lives.
+
+
+
+
+
+h2(#tech). Some technicalities (for the curious)
+
+BioAid is a multi-channel device. Sounds are input through the microphone and then filtered into frequency bands. Each band is processed separately and the output from each channel is combined to make the output that is delivered to the ear pieces.
+Quiet sounds in each channel are amplified differently. This is the same as traditional hearing aids.
+
+The intensity of sound in each channel is also regulated with a view to giving natural loudness growth and limiting the overall loudness to a comfortable level. Two methods are used to do this. The first is instantaneous compression which limits sudden sounds (such as a dropped plate, noisy children playing and screaming!) and keeps them within a comfortable level. The second is a delayed feedback that continuously monitors the within-channel sound level and slowly adjusts the output to the current conditions. The aim is to achieve a natural growth of perceived loudness in all situations.
+
+BioAid is a monaural (one ear) device (not stereo). This is a limitation of the iPhone/ iPod which gives apps access to only one microphone input. BioAid works better when two microphones are used but this is not technically possible with the iPhone/ iPod.
+BioAid is not compatible with the use of the telephone facilities or the music player in the device. Again these are limitations imposed by the manufacturer. This makes the iPod the more attractive device to use because it is not affected by telephone intrusions. It is also much cheaper and lighter!
+
+BioAid works in the time domain; it does not use FFT methods. This explains the very low latency of the device (around 7/1000 of a second). It is important to work in the time domain so that we can achieve instantaneous compression to protect against sudden very loud sounds.
+
+
+
+
+h2(#warn). Warnings
+
+!<{width: 50px;}images/note.png!
+
+Caution is recommended with all medical conditions. You might think that you have a simple and common type of hearing loss but you might be wrong. Many conditions can only be diagnosed by a professional. If you have access to and can afford healthcare, it is always worth have your hearing checked by a professional. We hope that BioAid will get you thinking seriously about your hearing. Hearing is an important component of a happy life
+
+
+h2(#fback). How you can help us and others
+
+The aid is part of a research project to influence the future of hearing aids. By making the algorithm freely available, we hope to get lots of feedback; comments, criticisms and helpful suggestions that can be shared with others.
+
+While the project is finding its feet, please visit the "contacts page":contact.html for information on how you can give us your feedback. If you try it and don’t like it, we will still appreciate hearing from you particularly if you can say why you don’t like it!
+
+
+
+
+

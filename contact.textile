@@ -1,0 +1,28 @@
+---
+layout: default
+title: People & Contact
+---
+
+
+
+
+User feedback is crucial to this project. To provide feedback, please email . . .
+
+ **bioaid-lab@googlegroups.com**
+
+
+This will ensure that your message is sent to all members of the BioAid team. We will soon establish a more formal data collection procedure.
+
+
+h2(#people).  People
+
+table{border:1px solid black}.
+|!{width: 100px;}images/port_nc.jpg!|*Nick Clark*
+BioAid mobile and lab-scale app development. Algorithm development and engineering.|
+|!{width: 100px;}images/port_wl.jpg!|*Wendy Lecluyse*
+Evaluation of the aid with impaired listeners in a laboratory setting. This work has provided the parameter presets in the mobile app.|
+|!{width: 100px;}images/port_tj.jpg!|*Tim Jürgens*
+Evaluation of the algorithm with machine listeners. This work has rigorously tested the algorithm code and will help to provide the next generation of parameters.|
+|!{width: 100px;}images/port_rm.jpg!|*Ray Meddis*
+Project Lead and original algorithm concept.|
+
