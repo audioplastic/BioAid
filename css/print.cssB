@@ -77,7 +77,7 @@
     border: 0;
   }
 
-  ol.toc a:link, ol.toc a:visited { text-decoration: none; }
+  ol.toc a:link, ol. a:visited { text-decoration: none; }
   ol.toc a:after { content: leader('.') target-counter(attr(href), page); }
 
   .title {
