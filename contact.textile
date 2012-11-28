@@ -14,8 +14,6 @@ User feedback is crucial to this project. To provide feedback, please email . . 
 This will ensure that your message is sent to all members of the BioAid team. We will soon establish a more formal data collection procedure.
 
 
-h2(#people).  People
-
 table{border:1px solid black}.
 |!{width: 100px;}images/port_nc.jpg!|*Nick Clark*
 BioAid mobile and lab-scale app development. Algorithm development and engineering.|
