@@ -1,7 +1,7 @@
-BioAid - biologically inspired hearing aid
+BioAid - The biologically inspired hearing aid
 ===========================================
 
-For more information and documentation visit bioaid.org.uk
+For more information and documentation visit **[bioaid.org.uk]**
 
 The /src folder contains the C++ source
 
