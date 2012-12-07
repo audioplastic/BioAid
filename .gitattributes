@@ -1,0 +1,14 @@
+# Office stuff
+*.doc -crlf -diff -merge
+*.docx -crlf -diff -merge
+*.ppt -crlf -diff -merge
+*.pptx -crlf -diff -merge
+*.xls -crlf -diff -merge
+*.xlsx -crlf -diff -merge
+
+# Vector graphics and PDFs
+*.eps -crlf -diff -merge
+*.pdf -crlf -diff -merge
+
+# XCode
+*.pbxproj -crlf -diff
