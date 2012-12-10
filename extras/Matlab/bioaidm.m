@@ -2,8 +2,8 @@ function [y] = bioaidm(x, UNIQUEpars, SHAREDpars)
 %BIOAIDM Pure Matlab code version of the biologically inspired gain model
 %   This matlab function mimics the behavior of the MEX equivalent. This
 %   script is coded to help interested persons understand how the algorithm
-%   functions. For this reason, the script is written using Matlab alone in
-%   a purely functional style (no object orientation). It is not written
+%   functions. For this reason, the script is written using Matlab alone 
+%   without object orientation. Importantly, it is not written
 %   with computational efficiency as a primary goal. The MEX version of
 %   this script built upon the C++ BioAid library operates between 3 and 4
 %   orders of magnitude faster for longer stimuli. Therefore, the MEX version
