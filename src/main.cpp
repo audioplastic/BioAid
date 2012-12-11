@@ -32,9 +32,9 @@
 #include <boost/thread/mutex.hpp>
 
 
-#include "params.h"
-#include "algoComponents.h"
-#include "algoInterface.h"
+#include "params.hpp"
+#include "algoComponents.hpp"
+#include "algoInterface.hpp"
 
 // vis helper
 void showData(const float* L, const float*R, int numel)

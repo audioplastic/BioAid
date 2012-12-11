@@ -52,9 +52,9 @@
 
 #include "mex.h"
 
-#include "../../src/utils.h"
-#include "../../src/params.h"
-#include "../../src/algoInterface.h"
+#include "../../src/utils.hpp"
+#include "../../src/params.hpp"
+#include "../../src/algoInterface.hpp"
 
 #define AUDIO_DATA_IN prhs[0] 
 #define AUDIO_DATA_OUT plhs[0]
