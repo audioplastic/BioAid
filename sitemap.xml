@@ -2,34 +2,46 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://bioaid.org.uk/algo.html</loc>
-        <lastmod>2013-04-10T14:01:10+01:00</lastmod>
+        <lastmod>2013-04-11T18:02:38+01:00</lastmod>
     </url>
     <url>
         <loc>http://bioaid.org.uk/contact.html</loc>
-        <lastmod>2013-04-10T14:01:10+01:00</lastmod>
+        <lastmod>2013-04-11T18:02:38+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bioaid.org.uk/FAQ.html</loc>
+        <lastmod>2013-04-11T18:02:38+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bioaid.org.uk/inappdocs.html</loc>
+        <lastmod>2013-04-11T18:02:38+01:00</lastmod>
     </url>
     <url>
         <loc>http://bioaid.org.uk/</loc>
-        <lastmod>2013-04-10T14:01:10+01:00</lastmod>
+        <lastmod>2013-04-11T18:02:38+01:00</lastmod>
     </url>
     <url>
         <loc>http://bioaid.org.uk/info.html</loc>
-        <lastmod>2013-04-10T14:01:10+01:00</lastmod>
+        <lastmod>2013-04-11T18:02:38+01:00</lastmod>
     </url>
     <url>
         <loc>http://bioaid.org.uk/press.html</loc>
-        <lastmod>2013-04-10T14:01:10+01:00</lastmod>
+        <lastmod>2013-04-11T18:02:38+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bioaid.org.uk/project.html</loc>
+        <lastmod>2013-04-11T18:02:38+01:00</lastmod>
     </url>
     <url>
         <loc>http://bioaid.org.uk/source.html</loc>
-        <lastmod>2013-04-10T14:01:10+01:00</lastmod>
+        <lastmod>2013-04-11T18:02:38+01:00</lastmod>
     </url>
     <url>
         <loc>http://bioaid.org.uk/testims.html</loc>
-        <lastmod>2013-04-10T14:01:10+01:00</lastmod>
+        <lastmod>2013-04-11T18:02:38+01:00</lastmod>
     </url>
     <url>
         <loc>http://bioaid.org.uk/vid.html</loc>
-        <lastmod>2013-04-10T14:01:10+01:00</lastmod>
+        <lastmod>2013-04-11T18:02:38+01:00</lastmod>
     </url>
 </urlset>
